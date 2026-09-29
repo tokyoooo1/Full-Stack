@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    font: 100;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: uppercase;
+}
+h2{
+    font-style: oblique 30deg;
+    text-transform: lowercase;
+}
+
+
+p{
+    color: black;
+    font: 200;
+    font-weight: 700;
+    font-style: oblique;
+    text-transform: capitalize;
+}
+
+ 
+ ul{
+    list-style:square;
+    
+}
